@@ -9,12 +9,10 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div></kbd>
 
-```markdown
-> [!NOTE]
-> Este bloco terá um fundo azul suave no GitHub.
-
-> [!IMPORTANT]
-> Este bloco terá um fundo roxo suave no GitHub.___
+<div style="background-color: #FFFF00; padding: 10px;">
+  Este texto tem um fundo amarelo.
+</div>
+___
 ## Contatos:
 <div>
 <a href="https://instagram.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
