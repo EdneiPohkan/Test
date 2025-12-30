@@ -4,7 +4,7 @@
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
 - I'm learning:  
-<kbd><div style="background-color: #23E4405F;">
+<kbd color:red><div style="background-color: #23E4405F;">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </div></kbd>
 
