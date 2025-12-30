@@ -1,4 +1,6 @@
-==texto aqui==
+<div style="background-color: #f0f0f0; padding: 10px;">
+Este é um bloco com fundo cinza claro.
+</div>
           
 #  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
