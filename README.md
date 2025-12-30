@@ -1,6 +1,10 @@
 #  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
+
+- 🛠️ I'm currently working on an arena game in Unreal Engine 5.
+- 📖 I'm currently learning game development.
+
 ## Contatos:
 <div>
 <a href="https://instagram.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
