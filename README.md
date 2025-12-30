@@ -1,7 +1,3 @@
-<div style="background-color: #23E4405F; padding: 10px;">
-Este é um bloco com fundo cinza claro.
-</div>
-          
 #  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
@@ -11,8 +7,9 @@ Este é um bloco com fundo cinza claro.
 - I'm learning:  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" class="devicon-unity-plain-wordmark" />  
-          
+<div style="background-color: #23E4405F; padding: 10px;">
+Este é um bloco com fundo cinza claro.
+</div>
 
 ## Contatos:
 <div>
