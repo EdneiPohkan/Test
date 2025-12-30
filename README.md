@@ -5,11 +5,11 @@
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
 - I'm learning:  
-<kbd color cyan><div style="background-color: gray;">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<kbd color cyan><div>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>   <img loading="lazy" src="https://toppng.com/uploads/preview/icazual-com-unreal-engine-logo-black-11563508503dwgh7n0xj1.png" width="40" height="40"/>
 </div></kbd>
 
-<img loading="lazy" src="https://toppng.com/uploads/preview/icazual-com-unreal-engine-logo-black-11563508503dwgh7n0xj1.png" width="40" height="40">
+
 ___
 ## Contatos:
 <div>
