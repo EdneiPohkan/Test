@@ -1,4 +1,5 @@
-#  Welcome to my Github profile. <mark style="background-color: #FFFF00; padding: 10px;">"W.I.P.(forever?)"</mark>
+#  Welcome to my Github profile.
+<mark>"W.I.P.(forever?)"</mark>
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 ___
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
