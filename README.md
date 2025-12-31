@@ -1,6 +1,6 @@
-#  Welcome to my Github profile.
+##  Welcome to my Github profile.
 <mark>"W.I.P. (forever?)"</mark>
-## My name is Ednei L. Veiga and my nickname is "Pohkan"!
+### My name is Ednei L. Veiga and my nickname is "Pohkan"!
 ___
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
