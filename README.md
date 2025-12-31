@@ -24,9 +24,7 @@ ___
 ```markdown
 > [!NOTE]
 > Este bloco terá um fundo azul suave no GitHub.
-```
 
-```markdown
 > [!IMPORTANT]
 > Este bloco terá um fundo roxo suave no GitHub.
 ```
