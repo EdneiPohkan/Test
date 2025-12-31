@@ -2,7 +2,6 @@
 #  Hello! Welcome to my Github profile.
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
-{c:#B81365}texto colorido com hexadecimal{/c} 
 
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
@@ -15,7 +14,7 @@
 <div>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/> <i class="devicon-unrealengine-original-wordmark"></i>
 </div>
-          
+{c:red} texto vermelho.{/c}     
 ___
 ## Contatos:
 <div>
