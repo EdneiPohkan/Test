@@ -3,7 +3,7 @@
 ## My name is Ednei L. Veiga and my nickname is "Pohkan"!
 
 
-[size=20]- 🛠️ I'm currently working on an arena game in Unreal Engine 5.
+[size=20]- 🛠️ I'm currently working on an arena game in Unreal Engine 5.[/size]
 - 📖 I'm currently learning game development.
 - I'm learning:  
 <kbd><div><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" width="80" height="80"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" width="80" height="80"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" width="80" height="80"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" height="80"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="80" height="80"/>          
