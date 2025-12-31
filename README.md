@@ -1,6 +1,8 @@
 ##  Welcome to my Github profile.
 <mark>"W.I.P. (forever?)"</mark>
 ### My name is Ednei L. Veiga and my nickname is "Pohkan"!
+
+ I'm a game character artist(3D/2D) and character designer, Unreal and Unity user delving into game development (game programming, level design, etc...) 
 ___
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
