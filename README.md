@@ -21,13 +21,11 @@ ___
 <a href="https://www.linkedin.com/in/ednei-lourenço-da-veiga-993353111/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-```markdown
-
+```markdown 
 > [!NOTE]
 > Este bloco terá um fundo azul suave no GitHub.
 ```
 
-```markdown
-
+```markdown 
 > [!IMPORTANT]
 > Este bloco terá um fundo roxo suave no GitHub.
