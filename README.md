@@ -27,4 +27,3 @@ ___
 
 > [!IMPORTANT]
 > Este bloco terá um fundo roxo suave no GitHub.
-```
