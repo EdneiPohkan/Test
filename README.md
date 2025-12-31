@@ -22,5 +22,5 @@ ___
 </div>
 
 ```markdown
-> [!NOTE]
-> Este bloco terá um fundo azul suave no GitHub.
+ > [!NOTE]
+ > Este bloco terá um fundo azul suave no GitHub.
