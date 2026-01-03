@@ -6,6 +6,7 @@ I'm a game character artist(3D/2D) and character designer, Unreal and Unity user
 ___
 - 🛠️ I'm currently working on an arena game in Unreal Engine 5.
 - 📖 I'm currently learning game development.
+
 ### I'm learning:  
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal%20engine&logoColor=white)
