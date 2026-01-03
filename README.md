@@ -17,7 +17,7 @@ ___
 ### Softwares:  
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
+![ZBrush](https://img.shields.io/badge/zbrush-%23751f00.svg?style=for-the-badge&logo=zbrush&logoColor=white)
 
 ___
 ## My Media:
