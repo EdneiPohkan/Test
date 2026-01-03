@@ -25,16 +25,17 @@ ___
 ## My Media:
 <div>
 <a href="https://instagram.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.artstation.com/edneiveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/artstation-%2300599C.svg?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
+<a href="https://www.tiktok.com/@edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-%23290013.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
+<a href="https://x.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 <a href = "mailto:e.pohkan@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ednei-lourenço-da-veiga-993353111/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+#### My personality:
+<a href="https://br.pinterest.com/edneipohkan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/12181632354?si=cde42263ddcf4b63" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-21732f?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-<a href="https://br.pinterest.com/edneipohkan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a> 
- 
-<a href="https://x.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/TikTok-%23290013.svg?style=for-the-badge&logo=TikTok&logoColor=white" target="_blank"></a>
 <a href="https://letterboxd.com/edneiveiga/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/letterboxd-%23313131.svg?style=for-the-badge&logo=letterboxd&logoColor=white" target="_blank"></a>
 <a href="https://backloggd.com/u/Ednei/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/backloggd-%231f3559.svg?style=for-the-badge&logo=backloggd&logoColor=white" target="_blank"></a>
 <a href="https://www.last.fm/user/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
-<a href="https://www.artstation.com/edneiveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/artstation-%2300599C.svg?style=for-the-badge&logo=artstation&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
