@@ -33,6 +33,7 @@ ___
 <a href="https://x.com/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
 <a href = "mailto:e.pohkan@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ednei-lourenço-da-veiga-993353111/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://sketchfab.com/Pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-sketchfab-%2339baed?style=for-the-badge&logo=sketchfab&logoColor=white" target="_blank"></a>
 
 #### My personality:
 <a href="https://br.pinterest.com/edneipohkan/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
@@ -42,5 +43,3 @@ ___
 <a href="https://www.last.fm/user/pohkan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/edneilveiga" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
-
-<iframe title="Rosto Pintado a mão sem luz e sombra" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="640" height="480" src="https://sketchfab.com/models/c4fb00551b0948dbb46d901fb84b55dc/embed"> </iframe>
