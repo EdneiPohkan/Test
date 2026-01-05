@@ -26,7 +26,7 @@ ___
 ### One of my 3D artworks:  
 <div fontsize="10"><a href="https://sketchfab.com/3d-models/boneco-sapalhaco-da5da738a8d6433787807c750ef8ed9b" target="_blank"><img loading="lazy" src="clideo_editor_ca70d187bd904120834782f502891773.gif" target="_blank" alt="SAPALHAÇO SKETCHFAB" width="400"></a>  
   
- Sapalhaço 3D model in Sketchfab.(click on the image)</div>
+ Sapalhaço 3D model in Sketchfab.(click on the image to view)</div>
 
 ___
 ## My Media:
